@@ -6,8 +6,10 @@ hero:
   name: "AntiBlackTide"
   actions:
     - theme: brand
-      text: 进入
-      link: /content1
-
+      text: Wild Fire
+      link: /wild-fire
+    - theme: brand
+      text: Hall of Shame
+      link: /hall-of-shame
 ---
 
